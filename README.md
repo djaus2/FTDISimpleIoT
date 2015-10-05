@@ -1,6 +1,6 @@
 # FTDISimpleIoT
 
-A stripped down version of FTDISample (https://github.com/Jark/FTDISample) to examine an issue tha thas arisen when used with a Startup Task (Headless). Issue see (https://github.com/Jark/FTDISample/issues/4#issuecomment-145351461)
+A stripped down version of FTDISample (https://github.com/Jark/FTDISample) to examine an issue that has arisen when used with a Startup Task (Headless). Issue see (https://github.com/Jark/FTDISample/issues/4#issuecomment-145351461)
 
 Contains two projects:
 * A Universal Windows App
