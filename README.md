@@ -4,7 +4,7 @@ A stripped down version of FTDISample (https://github.com/Jark/FTDISample) to ex
 
 Contains two projects:
 * A Universal Windows App
-* A Startup Tak (Headless)
+* A Startup Task (Headless)
 
 Both use the same code to interact with the FTDI D2XX driver
 
